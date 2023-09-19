@@ -11,5 +11,5 @@
 ![EC2-inbound](./img/ec2-inbound.png)  
 このインスタンスに接続できるのは、自分のipだけにした。(セキュリティ的観点から)　
 6. RDSのセキュリティグループ  
-![rds-inbound](.img/rds-inboundo.png)  
+![rds-inbound](./img/rds-inboundo.png)  
 RDSインスタンスに接続できるのは、5で設定したwebサーバーだけにした。(セキュリティ的観点から) 
